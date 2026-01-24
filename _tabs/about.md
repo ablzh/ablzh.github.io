@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
 
 Hi there 👋
-I'm a Computer Science educator and a graduate student in the Master of Information Systems program.
+My name is Artem Blazhievskii (ablzh). 
+I'm a computer science educator and this is my personal website.
