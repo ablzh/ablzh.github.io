@@ -15,7 +15,7 @@ Usually, you pick the stack your team is using and go. But I was hoping to find 
 
 ## What about Ruby-native desktop frameworks?
 
-[Shoes](http://shoesrb.com/) is long gone.
+[Shoes](https://github.com/shoes/shoes4) is long gone.
 
 [Glimmer DSL](https://github.com/AndyObtiva/glimmer) is impressive work. Massive respect to Andy Maleh for the incredible work there but it’s far from being a standard practice. Convincing a team of JS developers to adopt it for a commercial project is an impossible sell.
 
