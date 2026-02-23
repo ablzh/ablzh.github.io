@@ -18,15 +18,7 @@ Honestly, from the outside, writing a GUI in Ruby often feels like another "klud
 But then look at Electron. Thousands of apps are built on it, and they do just fine. The logic stays in Node, the UI stays in Web tech. It works.
 
 **Major Examples:**
-- Discord
-- Slack
-- VS Code
-- Notion
-- Obsidian
-- Signal
-- 1Password
-- Figma
-- Postman
+Discord, Slack, VS Code, Notion, Obsidian, Signal, 1Password, Figma, Postman, and more...
 
 Try to convince the team to write something serious in Ruby when Electron has such a proven track record that something complex is possible and works well. And what about QT?
 
@@ -42,7 +34,7 @@ I’d be ready to defend Ruby for these tasks if we had a great solution. But do
 
 Let’s look at the current landscape:
 
-### [Shoes](http://shoesrb.com/)
+### Shoes
 As I mentioned in my [first post]({% post_url 2026-02-19-is-there-a-place-for-ruby-on-the-desktop %}), it’s [abandoned](https://github.com/shoes/shoes4).
 
 ### [Glimmer DSL for libUI](https://github.com/AndyObtiva/glimmer-dsl-libui)
