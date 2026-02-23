@@ -38,7 +38,7 @@ Let’s look at the current landscape:
 As I mentioned in my [first post]({% post_url 2026-02-19-is-there-a-place-for-ruby-on-the-desktop %}), it’s [abandoned](https://github.com/shoes/shoes4).
 
 ### [Glimmer DSL for libUI](https://github.com/AndyObtiva/glimmer-dsl-libui)
-It feels like a great candidate. Minimum dependencies you install the gem, write a few lines, and boom, a window appears! But **libUI** has been in a "mid-alpha" state for a long time and will likely stay there. While the Glimmer DSL and the [libUI gem (by kojix2)](https://github.com/kojix2/libui) are stable, the functionality is limited and bugs are fixed slowly.
+It feels like a great candidate. Minimum dependencies you install the gem, write a few lines, and boom, a window appears! But **libUI** has been in a "mid-alpha" state for a long time and will likely stay there. While the Glimmer DSL and the [libUI gem (by kojix2)](https://github.com/kojix2/libui) are stable, the functionality of the original libUI library is limited and unlikely to be expanded, and if there are bugs, who will fix them?
 
 ### [Glimmer DSL for SWT](https://github.com/AndyObtiva/glimmer-dsl-swt)
 Powerful and reliable. But it requires JRuby and the JVM. For a small system utility? No thanks.
