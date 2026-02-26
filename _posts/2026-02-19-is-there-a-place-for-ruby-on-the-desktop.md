@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is there a place for Ruby on the Desktop?"
-date: 2026-02-19 12:00:00 +0000
+date: 2026-02-19 12:00:00 +0800
 categories: [Ruby, Desktop]
 tags: [ruby, desktop, electron, tauri, tebako, glimmer-dsl, shoes, gui, software-engineering]
 description: "Exploring the state of Ruby desktop application development in 2026. A look at Glimmer DSL, Tebako, and the challenges of packaging and updates compared to Electron and Tauri."
