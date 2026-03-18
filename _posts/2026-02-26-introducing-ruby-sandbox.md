@@ -22,7 +22,7 @@ I’ve spent years creating educational materials, and honestly, I have zero des
 
 ## Current State & Future Plans
 
-Just to be clear: I'm just getting started. Right now, there’s only the [Ruby WASM playground](https://ablzh.github.io/ruby-sandbox/index.html); everything else is a work in progress (assuming I have the time and energy).
+Just to be clear: I'm just getting started. Right now, there’s only the [Ruby WASM playground](https://ablzh.dev/ruby-sandbox/index.html); everything else is a work in progress (assuming I have the time and energy).
 
 My vision includes 3 modes:
 
@@ -50,4 +50,4 @@ Bottom line: I want to hold your hand through the very first steps, but then let
 
 If you recognized yourself in my description of a scared beginner—don't take it personally. I'm doing this specifically for you, my friend :)
 
-[**Try the Ruby Sandbox now!**](https://ablzh.github.io/ruby-sandbox/index.html)
+[**Try the Ruby Sandbox now!**](https://ablzh.dev/ruby-sandbox/index.html)
