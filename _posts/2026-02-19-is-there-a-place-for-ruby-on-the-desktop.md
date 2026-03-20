@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is there a place for Ruby on the Desktop?"
+title: "Ruby on Desktop, Part 1: Is there a place for Ruby on the Desktop?"
 date: 2026-02-19 12:00:00 +0800
 categories: [Ruby, Desktop]
 tags: [ruby, desktop, electron, tauri, tebako, glimmer-dsl, shoes, gui, software-engineering]
