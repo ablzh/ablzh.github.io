@@ -1,0 +1,9 @@
+---
+permalink: /robots.txt
+---
+User-agent: *
+Disallow: /norobots/
+Disallow: /tags/
+Disallow: /categories/
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
