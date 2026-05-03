@@ -13,6 +13,9 @@ I looked, and honestly? I was disappointed.
 
 Usually, you pick the stack your team is using and go. But I was hoping to find a reason to advocate for Ruby. Instead, I hit a wall.
 
+[Ruby on Desktop, Part 2](/posts/ruby-on-desktop-part-2-searching-for-the-right-tool/)
+
+
 ## What about Ruby-native desktop frameworks?
 
 [Shoes](https://github.com/shoes/shoes4) is long gone.

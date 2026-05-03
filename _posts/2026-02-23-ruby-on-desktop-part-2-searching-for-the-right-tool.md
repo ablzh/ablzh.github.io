@@ -13,6 +13,8 @@ When it comes to building something truly massive and complex, I have my doubts 
 
 Honestly, from the outside, writing a GUI in Ruby often feels like another "kludge." Every tool has its purpose; I don’t eat soup with a fork, and I don’t drive nails with a screwdriver.
 
+[Ruby on Desktop, Part 1](/posts/is-there-a-place-for-ruby-on-the-desktop)
+
 ## The Electron Standard
 
 But then look at Electron. Thousands of apps are built on it, and they do just fine. The logic stays in Node, the UI stays in Web tech. It works.
