@@ -3,7 +3,7 @@ layout: post
 title: "Ruby on Desktop, Part 2: Searching for the \"Right\" Tool"
 date: 2026-02-23 8:00:00 +0800
 categories: [Ruby, Desktop]
-tags: [ruby, desktop, electron, wxruby, glimmer-dsl, libui, gui, software-engineering]
+tags: [ruby, desktop]
 description: "Exploring Ruby desktop GUI options in 2026. A comparison of Glimmer DSL, wxRuby3, and Electron, focusing on the search for the right tool."
 ---
 

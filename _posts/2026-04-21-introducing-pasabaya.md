@@ -2,7 +2,7 @@
 title: "Pasabaya: Community Carpooling for the Philippines"
 date: 2026-04-21 16:00:00 +0800
 categories: [Projects, Philippines]
-tags: [pasabaya, carpooling, tech-for-good, transport, upou]
+tags: [pasabaya.app, the-one-person-framework]
 description: "Building a smarter, social way to find travel companions in the Philippines. No fees, no commissions—just people helping people beat the traffic."
 ---
 
