@@ -1,7 +1,7 @@
 ---
 title: "Introducing Ruby Sandbox: A Web-Based Playground for Beginners"
 date: 2026-02-26 9:00:00 +0800
-categories: [Programming, Ruby]
+categories: [Ruby, Education]
 tags: [ruby, education, ruby-sandbox]
 description: "Discover Ruby Sandbox, a web-based WASM playground designed to make learning Ruby as accessible as Python's Turtle. No installation required."
 ---
