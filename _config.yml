@@ -56,6 +56,12 @@ webmaster_verifications:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+plugins:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 # Web Analytics Settings
 analytics:
   google:
